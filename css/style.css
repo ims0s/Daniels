@@ -102,3 +102,13 @@ section > h2{
     background-color: white !important;
     color: black !important;
 }
+#testimonials img {
+    width: 120px;
+    border-radius: 50%;
+}
+#testimonials .indicator{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: black !important;
+}
